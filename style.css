@@ -1,0 +1,28 @@
+@media only screen and (min-width: 767px) {
+         #s_t_n{
+             display:inline;             
+             }      
+         #mail{
+             display:inline;
+             }          
+         #sub{
+             width:20%;
+             display:inline;
+         }
+         #sub_inp{
+             width:38%;
+             display:inline;
+         }                          
+         }
+         #newsletter{
+             padding:30px;
+         }
+      }
+#s_t_n{
+    text-align:center;
+}
+#html_pic{
+    width:100px;
+    margin:auto;
+    display:block;
+}
